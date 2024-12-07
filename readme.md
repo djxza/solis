@@ -1,3 +1,7 @@
+***SOLIS OS***
+
+meant for windows
+
 first run
 `docker build buildenv -t solis_os`
 
